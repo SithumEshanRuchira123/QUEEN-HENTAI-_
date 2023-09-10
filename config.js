@@ -7,8 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94763406787', 'Mr.⃞៚ 𝙎𝙄𝙏𝙃𝙐𝙈 𝙀𝙎𝙃𝘼𝙉꧁꧂', true],
   [''] 
 ] //Number of owners
 
@@ -23,7 +22,7 @@ global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'www.api.com'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
   lol: 'https://api.lolhuman.xyz',
@@ -37,7 +36,7 @@ global.APIs = { // API Prefix
   fgmods: 'https://api-fgmods.ddns.net'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  "null" }
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,	
@@ -49,22 +48,22 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '៚ᵖᵒʷᵉʳᵉᵈ ᵇʸ ⃞៚ ᗰᖇ . 𝙎𝙄𝙏𝙃𝙐𝙈  𝙀𝙎𝙃𝘼𝙉꧁꧂°' 
+global.author = 'Sιƚԋυɱ Eʂԋαɳ •_°' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.dygp = 'https://chat.whatsapp.com/LC1Y5H7W7URCTh08w7ORLs'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/LC1Y5H7W7URCTh08w7ORLs'
+global.fgpyp = 'https://chat.whatsapp.com/LC1Y5H7W7URCTh08w7ORLs'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Waiting Bro Uploading by Queen Hentai 💝..._*'
+global.rwait = '♻️'
 global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
-global.xmoji = '🫶' 
+global.done = '✅'
+global.error = '⚠️
+global.xmoji = '❤️'
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
